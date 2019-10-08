@@ -3,8 +3,8 @@
 ## This repo will record my journey to become a data scientist
 
 ### Books to read
-1. Data Science from Scratch
-2. Data Structures and Algorthms Using Python
+1. Data Structures and Algorthms Using Python
+2. Data Science from Scratch
 3. Practical statistics for data scientists
 4. Learning SQL
 5. Fundamentals of Data Visualization
