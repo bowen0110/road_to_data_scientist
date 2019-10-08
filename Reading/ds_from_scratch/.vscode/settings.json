@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/bowen/anaconda3/envs/data_scientist/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
